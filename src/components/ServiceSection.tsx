@@ -21,18 +21,18 @@ const services = [
 
 export const ServiceSection = () => {
   return (
-    <section className="services" id="services">
-      <h2 className="heading">
+    <section className='services' id='services'>
+      <h2 className='heading'>
         My <span>Services</span>
       </h2>
 
-      <div className="services-container">
+      <div className='services-container'>
         {services.map(({ icon, title, description }) => (
-          <div className="services-box" key={title}>
+          <div className='services-box' key={title}>
             <i className={icon}></i>
             <h3>{title}</h3>
             <p>{description}</p>
-            <a href="#" className="btn">
+            <a href='#' className='btn'>
               Read More
             </a>
           </div>

@@ -2,12 +2,12 @@ import aboutImage from '../images/about.png';
 
 export const AboutSection = () => {
     return (
-      <section className="about" id="about">
-      <div className="about-image">
-        <img src={aboutImage} alt="" />
+      <section className='about' id='about'>
+      <div className='about-image'>
+        <img src={aboutImage} alt='' />
       </div>
-      <div className="about-content">
-        <h2 className="heading">About <span>Me</span></h2>
+      <div className='about-content'>
+        <h2 className='heading'>About <span>Me</span></h2>
         <h3>Hi, I'm Here to Help In Your Next Project!</h3>
         <p>
           With a passion for user-centric design and a knack for creating
@@ -16,7 +16,7 @@ export const AboutSection = () => {
           intuitive interfaces that captivate users. Welcome to my portfolio,
           where innovation meets user satisfaction.
         </p>
-        <a href="#" className="btn">Read More</a>
+        <a href='#' className='btn'>Read More</a>
       </div>
     </section>
     )

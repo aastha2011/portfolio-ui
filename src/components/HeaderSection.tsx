@@ -50,25 +50,25 @@ export const HeaderSection = () => {
 
   return (
     <header className={`header ${isSticky ? 'sticky' : ''}`}>
-      <a href="#" className="logo">Portfolio.</a>
+      <a href='#' className='logo'>Portfolio.</a>
       <nav className={`navbar ${isMenuActive ? 'active' : ''}`}>
-        <a href="#home" className={activeSection === 'home' ? 'active' : ''}>Home</a>
-        <a href="#about" className={activeSection === 'about' ? 'active' : ''}>About</a>
-        <a href="#services" className={activeSection === 'services' ? 'active' : ''}>Services</a>
-        <a href="#portfolio" className={activeSection === 'portfolio' ? 'active' : ''}>Portfolio</a>
-        <a href="#contact" className={activeSection === 'contact' ? 'active' : ''}>Contact</a>
+        <a href='#home' className={activeSection === 'home' ? 'active' : ''}>Home</a>
+        <a href='#about' className={activeSection === 'about' ? 'active' : ''}>About</a>
+        <a href='#services' className={activeSection === 'services' ? 'active' : ''}>Services</a>
+        <a href='#portfolio' className={activeSection === 'portfolio' ? 'active' : ''}>Portfolio</a>
+        <a href='#contact' className={activeSection === 'contact' ? 'active' : ''}>Contact</a>
       </nav>
 
       <div 
         className={`bx ${isDarkMode ? 'bx-sun' : 'bx-moon'}`} 
-        id="darkMode-icon"
+        id='darkMode-icon'
         onClick={toggleDarkMode}
         style={{ cursor: 'pointer' }}
       ></div>
 
       <div 
         className={`bx bx-menu-alt-right ${isMenuActive ? 'bx-x' : ''}`} 
-        id="menu-icon"
+        id='menu-icon'
         onClick={toggleMenu}
         style={{ cursor: 'pointer' }}
       ></div>

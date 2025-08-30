@@ -46,19 +46,19 @@ const projects = [
 
 export const PortfolioSection = () => {
   return (
-    <section className="portfolio" id="portfolio">
-      <h2 className="heading">
+    <section className='portfolio' id='portfolio'>
+      <h2 className='heading'>
         Latest <span>Projects</span>
       </h2>
-      <div className="portfolio-container">
+      <div className='portfolio-container'>
         {projects.map(({ img, title, description, link }, index) => (
-          <div className="portfolio-box" key={index}>
+          <div className='portfolio-box' key={index}>
             <img src={img} alt={title} />
-            <div className="portfolio-layer">
+            <div className='portfolio-layer'>
               <h4>{title}</h4>
               <p>{description}</p>
-              <a href={link} target="_blank" rel="noopener noreferrer">
-                <i className="bx bx-link-external"></i>
+              <a href={link} target='_blank' rel='noopener noreferrer'>
+                <i className='bx bx-link-external'></i>
               </a>
             </div>
           </div>

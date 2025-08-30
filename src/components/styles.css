@@ -179,6 +179,11 @@ section{
     align-items: center;
     animation: professionRotate 13s ease-out infinite;  
 }
+.error {
+    color: #DC143C;
+    font-size: 12px;
+    margin-top: 5px;
+  }
 @keyframes professionRotate{
     0%,20%{
        transform: rotate(0deg);
