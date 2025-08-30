@@ -2,7 +2,7 @@
   "name": "aastha-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aastha2011.github.io/aastha-portfolio",
+  "homepage": "https://aastha2011.github.io/portfolio-ui",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
