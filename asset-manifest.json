@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/aastha-portfolio/static/css/main.01976822.css",
-    "main.js": "/aastha-portfolio/static/js/main.309df74d.js",
-    "static/media/boxicons.svg": "/aastha-portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
-    "static/media/boxicons.eot": "/aastha-portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
-    "static/media/boxicons.woff": "/aastha-portfolio/static/media/boxicons.d12afc36557395143e4b.woff",
-    "static/media/boxicons.ttf": "/aastha-portfolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
-    "static/media/SettleSpace.jpg": "/aastha-portfolio/static/media/SettleSpace.8caa894d72a8b9fc2c8a.jpg",
-    "static/media/Furnify.jpg": "/aastha-portfolio/static/media/Furnify.18f6b9306076175108a5.jpg",
-    "static/media/NFC-Dashboard.jpg": "/aastha-portfolio/static/media/NFC-Dashboard.029a65b2c133c4462562.jpg",
-    "static/media/about.png": "/aastha-portfolio/static/media/about.e569d987e76ae568ee09.png",
-    "static/media/Foodonation.jpg": "/aastha-portfolio/static/media/Foodonation.0338da7254f7d8a51433.jpg",
-    "static/media/boxicons.woff2": "/aastha-portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
-    "static/media/TravelEase.jpg": "/aastha-portfolio/static/media/TravelEase.18194f3bd31a86ae9884.jpg",
-    "static/media/DashBoard.jpg": "/aastha-portfolio/static/media/DashBoard.9eb9410a44c79eabc856.jpg",
-    "index.html": "/aastha-portfolio/index.html",
-    "main.01976822.css.map": "/aastha-portfolio/static/css/main.01976822.css.map",
-    "main.309df74d.js.map": "/aastha-portfolio/static/js/main.309df74d.js.map"
+    "main.css": "/portfolio-ui/static/css/main.a3949228.css",
+    "main.js": "/portfolio-ui/static/js/main.527a3681.js",
+    "static/media/boxicons.svg": "/portfolio-ui/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/portfolio-ui/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/portfolio-ui/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/portfolio-ui/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/SettleSpace.jpg": "/portfolio-ui/static/media/SettleSpace.8caa894d72a8b9fc2c8a.jpg",
+    "static/media/Furnify.jpg": "/portfolio-ui/static/media/Furnify.18f6b9306076175108a5.jpg",
+    "static/media/NFC-Dashboard.jpg": "/portfolio-ui/static/media/NFC-Dashboard.029a65b2c133c4462562.jpg",
+    "static/media/about.png": "/portfolio-ui/static/media/about.e569d987e76ae568ee09.png",
+    "static/media/Foodonation.jpg": "/portfolio-ui/static/media/Foodonation.0338da7254f7d8a51433.jpg",
+    "static/media/boxicons.woff2": "/portfolio-ui/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/TravelEase.jpg": "/portfolio-ui/static/media/TravelEase.18194f3bd31a86ae9884.jpg",
+    "static/media/DashBoard.jpg": "/portfolio-ui/static/media/DashBoard.9eb9410a44c79eabc856.jpg",
+    "index.html": "/portfolio-ui/index.html",
+    "main.a3949228.css.map": "/portfolio-ui/static/css/main.a3949228.css.map",
+    "main.527a3681.js.map": "/portfolio-ui/static/js/main.527a3681.js.map"
   },
   "entrypoints": [
-    "static/css/main.01976822.css",
-    "static/js/main.309df74d.js"
+    "static/css/main.a3949228.css",
+    "static/js/main.527a3681.js"
   ]
 }
